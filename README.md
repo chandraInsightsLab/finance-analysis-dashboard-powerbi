@@ -310,11 +310,11 @@ finance-analysis-dashboard-powerbi/
 │   ├── verified.png
 │   └─── wage.png
 ├── images/
-│   ├── Overview Dashboard.png
-│   └── Transactions Dashboard.png
-├── README.md
+│   ├── overview_analysis.png
+│   └── transaction.png
 ├── .gitignore
-└── Business Requirements.docx
+├── Business Requirements.docx
+└── README.md
 ```
 
 ---
